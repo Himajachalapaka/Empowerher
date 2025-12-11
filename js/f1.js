@@ -1,8 +1,8 @@
 let n=4;
 
-function prime(n){
+function evenOrOdd(n){
     if(n%2==0){
-        console.log("Prime")
+        console.log("Even")
     }else
-        console.log("Not prime");
+        console.log("Odd");
 }
